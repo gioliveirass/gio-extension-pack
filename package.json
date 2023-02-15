@@ -1,0 +1,37 @@
+{
+  "name": "gio-extension-pack",
+  "displayName": "Gio Extension Pack ★",
+  "description": "☾ Gio's Favorite Extensions ☽",
+  "version": "0.0.1",
+  "publisher": "gioliveirass",
+  "icon": "icon.jpg",
+  "galleryBanner": {
+    "color": "#0061A1",
+    "theme": "dark"
+  },
+  "keywords": [
+    "Gio",
+    "Giovana"
+  ],
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "formulahendry.auto-rename-tag",
+    "coenraads.bracket-pair-colorizer-2",
+    "naumovs.color-highlight",
+    "eamodio.gitlens",
+    "tintinweb.vscode-inline-bookmarks",
+    "ritwickdey.liveserver",
+    "pkief.material-icon-theme",
+    "rocketseat.theme-omni",
+    "christian-kohler.path-intellisense",
+    "ms-ceintl.vscode-language-pack-pt-br",
+    "esbenp.prettier-vscode",
+    "mechatroner.rainbow-csv",
+    "styled-components.vscode-styled-components"
+  ]
+}
