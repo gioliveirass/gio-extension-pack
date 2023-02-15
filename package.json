@@ -13,6 +13,13 @@
     "Gio",
     "Giovana"
   ],
+  "repository": {
+    "url": "https://github.com/gioliveirass/gio-extension-pack"
+  },
+  "homepage": "https://github.com/gioliveirass/gio-extension-pack",
+  "bugs": {
+    "url": "https://github.com/gioliveirass/gio-extension-pack/issues"
+  },
   "engines": {
     "vscode": "^1.75.0"
   },
