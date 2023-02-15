@@ -21,7 +21,7 @@
     "url": "https://github.com/gioliveirass/gio-extension-pack/issues"
   },
   "engines": {
-    "vscode": "^1.75.0"
+    "vscode": "^1.72.2"
   },
   "categories": [
     "Extension Packs"
