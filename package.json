@@ -4,7 +4,7 @@
   "description": "☾ Gio's Favorite Extensions ☽",
   "version": "0.0.1",
   "publisher": "gioliveirass",
-  "icon": "icon.jpg",
+  "icon": "./icon.jpg",
   "galleryBanner": {
     "color": "#0061A1",
     "theme": "dark"
