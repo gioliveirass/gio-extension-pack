@@ -1,16 +1,25 @@
-# gio-extension-pack README
+<div align="center">
+  <h1>Gio Extension Pack ★</h1>
+  ☾ Gio's Favorite Extensions ☽
+</div>
 
-## Working with Markdown
+## Tecnologias utilizadas
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+[![Yeoman](https://custom-icon-badges.herokuapp.com/badge/Yeoman-1F1F1F?style=for-the-badge)](https://yeoman.io/)
+[![vsce](https://custom-icon-badges.herokuapp.com/badge/vsce-1F1F1F?style=for-the-badge)](https://www.npmjs.com/package/vsce)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Gerar novo pacote
 
-## For more information
+O pacote é gerado utilizando o vsce, portantanto é necessário ter a tecnologia instalada na máquina.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Para instalar o vsce, é necessário executar o seguinte comando:
 
-**Enjoy!**
+```
+npm install -g vsce
+```
+
+Uma vez que a tecnologia tenha sido instalada, o pacote pode ser gerado através do comando:
+
+```
+vsce package
+```
