@@ -30,17 +30,28 @@
   ],
   "extensionPack": [
     "formulahendry.auto-rename-tag",
-    "coenraads.bracket-pair-colorizer-2",
     "naumovs.color-highlight",
     "eamodio.gitlens",
     "tintinweb.vscode-inline-bookmarks",
     "ritwickdey.liveserver",
     "pkief.material-icon-theme",
-    "rocketseat.theme-omni",
     "christian-kohler.path-intellisense",
     "ms-ceintl.vscode-language-pack-pt-br",
     "esbenp.prettier-vscode",
     "mechatroner.rainbow-csv",
-    "styled-components.vscode-styled-components"
+    "styled-components.vscode-styled-components",
+    "lucafalasco.match",
+    "tonybaloney.vscode-pets",
+    "ms-dotnettools.vscode-dotnet-runtime",
+    "mikael.angular-beastcode",
+    "angular.ng-template",
+    "cyrilletuzi.angular-schematics",
+    "johnpapa.angular2",
+    "ms-dotnettools.csharp",
+    "ms-dotnettools.csdevki",
+    "kreativ-software.csharpexten",
+    "ms-azuretools.vscode-containers",
+    "leonardssh.vscord",
+    "jock.svg"
   ]
 }
